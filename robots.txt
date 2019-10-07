@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://phogejeos.invisiblethreat.ca/sitemap.xml
